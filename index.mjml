@@ -130,6 +130,57 @@
       <!-- End of Divider -->
 
 
+      <mj-section padding="0 40px">
+        <mj-column>
+          <mj-image src="/assets/shipping.jpg" alt="" padding="0" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="/assets/giftcards.jpg" alt="" padding="0" />
+        </mj-column>
+      </mj-section>
+      <mj-section padding="0 40px">
+        <mj-column>
+          <mj-image src="/assets/reviews.jpg" alt="" padding="0" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="/assets/about.jpg" alt="" padding="0" />
+        </mj-column>
+      </mj-section>
+
+
+
+      <!-- Footer Section -->
+      <mj-section padding="15px 0px 5px 0px" full-width="full-width" background-color="black">
+        <mj-column padding="5px 15px" width="250px">
+          <mj-image src="/assets/logo.png" alt="" padding="10px 8px" align="left" href="https://soccer.com" />
+        </mj-column>
+
+        <!-- Container for links with a specified width to keep them in a single row -->
+        <mj-column padding="0px 0" width="350px">
+          <mj-table align="center" width="100%">
+            <tr>
+              <td align="center" style="padding: 0 12px;">
+                <img src="/assets/media/fb.png" alt="" width="30px" />
+              </td>
+              <td align="center" style="padding: 0 12px;">
+                <img src="/assets/media/tw.png" alt="" width="30px" />
+              </td>
+              <td align="center" style="padding: 0 12px;">
+                <img src="/assets/media/insta.png" alt="" width="30px" />
+              </td>
+              <td align="center" style="padding: 0 12px;">
+                <img src="/assets/media/yt.png" alt="" width="30px" />
+              </td>
+              <td align="center" style="padding: 0 12px;">
+                <img src="/assets/media/twit.png" alt="" width="30px" />
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+
+      <!-- End of Footer Section -->
 
 
 
