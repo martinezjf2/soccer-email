@@ -120,6 +120,20 @@
       <mj-include path="./components/divider.mjml" />
       <!-- End of Divider -->
 
+      <!-- Start Gloves Section -->
+      <mj-include path="./components/gloves.mjml" />
+      <!-- End of Gloves Section -->
+
+
+      <!-- Start of Divider -->
+      <mj-include path="./components/divider.mjml" />
+      <!-- End of Divider -->
+
+
+
+
+
+
     </mj-wrapper>
   </mj-body>
 </mjml>
