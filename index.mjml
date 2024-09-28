@@ -4,6 +4,16 @@
       * {
         box-sizing: border-box;
       }
+
+      .footer-link:hover {
+        text-decoration: underline;
+        color: #888888
+      }
+
+      .footer-link {
+        text-decoration: none;
+        color: #888888
+      }
     </mj-style>
 
     <!-- The inline style will be used for reusability throughout the email. -->
@@ -177,6 +187,25 @@
             </tr>
           </mj-table>
         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#d8d8d8">
+        <mj-column>
+          <mj-text align="center" color="#888888" font-size="12px">
+            Visit our promotion details page for more information
+          </mj-text>
+          <mj-text align="center" color="#888888" font-size="12px">
+            This message was sent by: Sports Endeavors, LLC.<br>
+            431 US Highway 70A East, Hillsborough, NC 27278
+          </mj-text>
+          <mj-text align="center" color="#888888" font-size="12px">
+            <a href="#" class="footer-link">Update Your Profile</a> | <a href="#" class="footer-link">Unsubscribe</a>
+          </mj-text>
+          <mj-text align="center" color="#888888" font-size="12px">
+            &copy; 2024 Sports Endeavors, Inc., All Rights Reserved
+          </mj-text>
+        </mj-column>
+
       </mj-section>
 
 
