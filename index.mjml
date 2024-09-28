@@ -59,119 +59,9 @@
         </mj-column>
       </mj-section>
 
-      <!-- Start of Divider -->
-      <mj-include path="./components/divider.mjml" />
-      <!-- End of Divider -->
-
-      <!-- New FootWear Section -->
-      <mj-section padding="10px 0px 20px">
-        <mj-column>
-          <mj-text align="center" font-size="20px" font-weight="bold" letter-spacing="1.2px" color="#555555" padding="0">
-            Shop New Footwear
-          </mj-text>
-        </mj-column>
-      </mj-section>
-
-
-      <mj-section padding="0px 10px 25px">
-        <mj-column padding="0px">
-          <mj-image src="/assets/cleats/cleat-1.jpg" alt="Blue Cleats" padding="0 8px" href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zcmNo/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3F1ZXJ5PU5KUiZ1dG1fY29udGVudD0wOTI2MjAyNF9UaHVyc2RheV82cG0mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXpldGEmYnRfZWU9TWQzRnBialFvT2dtZjVOY3olMkJwUEFrcWZwczgybEhGcVJPRjRGUmtiRjA3WjVId3RWUjlScnJkcUZkWEZEcEY3JmJ0X3RzPTE3MjczODg2NjY4MjU/gZvXcIw/sbtf828ce50" />
-          <mj-text align="center">
-            <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zcmNo/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3F1ZXJ5PU5KUiZ1dG1fY29udGVudD0wOTI2MjAyNF9UaHVyc2RheV82cG0mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXpldGEmYnRfZWU9TWQzRnBialFvT2dtZjVOY3olMkJwUEFrcWZwczgybEhGcVJPRjRGUmtiRjA3WjVId3RWUjlScnJkcUZkWEZEcEY3JmJ0X3RzPTE3MjczODg2NjY4MjU/gZvXcIw/sbtf828ce50" class="shop-now-button">Shop Now</a>
-          </mj-text>
-        </mj-column>
-
-        <mj-column padding="0px">
-          <mj-image src="/assets/cleats/cleat-2.jpg" alt="white cleats" padding="0 8px" href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zcmNo/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3F1ZXJ5PVNSNCZ1dG1fY29udGVudD0wOTI2MjAyNF9UaHVyc2RheV82cG0mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXpldGEmYnRfZWU9TWQzRnBialFvT2dtZjVOY3olMkJwUEFrcWZwczgybEhGcVJPRjRGUmtiRjA3WjVId3RWUjlScnJkcUZkWEZEcEY3JmJ0X3RzPTE3MjczODg2NjY4MjU/gZvXcIw/sbm793f7264" />
-          <mj-text align="center">
-            <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zcmNo/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3F1ZXJ5PVNSNCZ1dG1fY29udGVudD0wOTI2MjAyNF9UaHVyc2RheV82cG0mdXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPXpldGEmYnRfZWU9TWQzRnBialFvT2dtZjVOY3olMkJwUEFrcWZwczgybEhGcVJPRjRGUmtiRjA3WjVId3RWUjlScnJkcUZkWEZEcEY3JmJ0X3RzPTE3MjczODg2NjY4MjU/gZvXcIw/sbm793f7264" class="shop-now-button">Shop Now</a>
-          </mj-text>
-        </mj-column>
-
-        <mj-column padding="0px">
-          <mj-image src="/assets/cleats/cleat-3.jpg" alt="red cleats" padding="0 8px" href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL3Byb2R1Y3RzL2Zvb3R3ZWFyL25ldy1hcnJpdmFscw/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP2ZpbHRlcj1icmFuZHNfX2FkaWRhcyZwYWdlPTEmdXRtX2NvbnRlbnQ9MDkyNjIwMjRfVGh1cnNkYXlfNnBtJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT16ZXRhJmJ0X2VlPU1kM0ZwYmpRb09nbWY1TmN6JTJCcFBBa3FmcHM4MmxIRnFST0Y0RlJrYkYwN1o1SHd0VlI5UnJyZHFGZFhGRHBGNyZidF90cz0xNzI3Mzg4NjY2ODI1/gZvXcIw/s9v48348691" />
-          <mj-text align="center">
-            <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL3Byb2R1Y3RzL2Zvb3R3ZWFyL25ldy1hcnJpdmFscw/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP2ZpbHRlcj1icmFuZHNfX2FkaWRhcyZwYWdlPTEmdXRtX2NvbnRlbnQ9MDkyNjIwMjRfVGh1cnNkYXlfNnBtJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT16ZXRhJmJ0X2VlPU1kM0ZwYmpRb09nbWY1TmN6JTJCcFBBa3FmcHM4MmxIRnFST0Y0RlJrYkYwN1o1SHd0VlI5UnJyZHFGZFhGRHBGNyZidF90cz0xNzI3Mzg4NjY2ODI1/gZvXcIw/s9v48348691" class="shop-now-button">Shop Now</a>
-          </mj-text>
-        </mj-column>
-      </mj-section>
-
-      <!-- End of Footwear Section -->
-
-      <!-- Start of Divider -->
-      <mj-include path="./components/divider.mjml" />
-      <!-- End of Divider -->
-
-      <!-- Top Selling Section -->
-      <mj-section padding="10px 0px 20px">
-        <mj-column>
-          <mj-text align="center" font-size="20px" font-weight="bold" letter-spacing="1.2px" color="#555555" padding="0">
-            Shop Top Selling Footwear
-          </mj-text>
-        </mj-column>
-      </mj-section>
-
-
-      <mj-section padding="0px 10px 25px">
-        <mj-column padding="0px">
-          <mj-image src="/assets/cleats/cleat-4.jpg" alt="white cleats" padding="0 8px" href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL2RldGFpbHMvbmlrZS16b29tLW1lcmN1cmlhbC1zdXBlcmZseS0xMC1lbGl0ZS1mZy1maXJtLWdyb3VuZC1zb2NjZXItY2xlYXQtZ2xhY2llci1ibHVlLWJsdWUtb3JiaXRfQTExMDMxNjQ/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3V0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/sek795b5ed0" />
-          <mj-text align="center">
-            <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL2RldGFpbHMvbmlrZS16b29tLW1lcmN1cmlhbC1zdXBlcmZseS0xMC1lbGl0ZS1mZy1maXJtLWdyb3VuZC1zb2NjZXItY2xlYXQtZ2xhY2llci1ibHVlLWJsdWUtb3JiaXRfQTExMDMxNjQ/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3V0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/sek795b5ed0" class="shop-now-button">Shop Now</a>
-          </mj-text>
-        </mj-column>
-
-        <mj-column padding="0px">
-          <mj-image src="/assets/cleats/cleat-5.jpg" alt="yellow cleats" padding="0 8px" href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL3Byb2R1Y3RzL2Zvb3R3ZWFyL25ldy1hcnJpdmFscw/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3BhZ2U9MSZmaWx0ZXI9YnJhbmRzX19OaWtlJnV0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/s8g0b0f7f9e" />
-          <mj-text align="center">
-            <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL3Byb2R1Y3RzL2Zvb3R3ZWFyL25ldy1hcnJpdmFscw/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3BhZ2U9MSZmaWx0ZXI9YnJhbmRzX19OaWtlJnV0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/s8g0b0f7f9e" class="shop-now-button">Shop Now</a>
-          </mj-text>
-        </mj-column>
-
-        <mj-column padding="0px">
-          <mj-image src="/assets/cleats/cleat-9.jpg" alt="" padding="0 8px" href="https://www.soccer.com/shop/details/nike-zoom-mercurial-vapor-16-elite-cosmic-speed-fg-firm-ground-soccer-cleat-black-black_A1103254" />
-          <mj-text align="center">
-            <a href="https://www.soccer.com/shop/details/nike-zoom-mercurial-vapor-16-elite-cosmic-speed-fg-firm-ground-soccer-cleat-black-black_A1103254" class="shop-now-button">Shop Now</a>
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <!-- End of Top Selling Section -->
-
-      <!-- Start of Divider -->
-      <mj-include path="./components/divider.mjml" />
-      <!-- End of Divider -->
-
-      <!-- Reccomendations Section -->
-      <mj-section padding="10px 0px 20px">
-        <mj-column>
-          <mj-text align="center" font-size="20px" font-weight="bold" letter-spacing="1.2px" color="#555555" padding="0">
-            Your Footwear Recommendations
-          </mj-text>
-        </mj-column>
-      </mj-section>
-
-
-      <mj-section padding="0px 40px 5px">
-        <mj-column padding="0px">
-          <mj-image src="/assets/cleats/cleat-6.jpg" alt="" padding="0 8px" href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWluLmNvbS9jbGljay9zZWktc29jY2VyLWNvbS9yUyt1Z25EaWt4ampKS0g3QmFTb1pwNDVXNG1rc01vQnBxQktETEVDSk0xOENuSXJyVTBwYms2SmlEZmM3N0IyUkRIZElQU2w3YmJUTy9vckZ1aTVSdz09/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3JkPWh0dHBzJTNBJTJGJTJGd3d3LnNvY2Nlci5jb20lMkZzaG9wJTJGZGV0YWlscyUyRmFkaWRhcy1mNTAtZWxpdGUtbGFjZWxlc3MtZmctZmlybS1ncm91bmQtc29jY2VyLWNsZWF0LWFsbW9zdC1ibHVlLXNlbWktbHVjaWQtYmx1ZS1zZW1pLXNvbGFyLXllbGxvd19BMTEwMjQ2NCZyc2lkPTYyMDM5Y2IwLTMzOGUtNGY2My04OTIyLWNjYmRkYTU1Zjc1OSZyaWQ9NjIwMzljYjAtMzM4ZS00ZjYzLTg5MjItY2NiZGRhNTVmNzU5JTNBY2xlYXQlMjF1c2VyX2ludGVyZXN0JTNBMCZnPWNsZWF0JTIxdXNlcl9pbnRlcmVzdCZuPTAmcD1GYWxzZSZiPTRjNGRlZTdiMDI3OTMwNmUxYjI4ZDQ3YmRhYmIzNWFkLTEmYz0wOTI2MjAyNF9UaHVyc2RheV82cG0mcj1BMTEwMjQ2NDAxOSZydD1wcm9kdWN0Jng9Wlhod1gySjAmcmM9UG9wdWxhciZ0PTQ3OTgzMCZtPWVtYWlsJnV0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/s0k15709255" />
-          <mj-text align="center" padding="0 5px">
-            <a class="recommendation-title" href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWluLmNvbS9jbGljay9zZWktc29jY2VyLWNvbS9yUyt1Z25EaWt4ampKS0g3QmFTb1pwNDVXNG1rc01vQnBxQktETEVDSk0xOENuSXJyVTBwYms2SmlEZmM3N0IyUkRIZElQU2w3YmJUTy9vckZ1aTVSdz09/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3JkPWh0dHBzJTNBJTJGJTJGd3d3LnNvY2Nlci5jb20lMkZzaG9wJTJGZGV0YWlscyUyRmFkaWRhcy1mNTAtZWxpdGUtbGFjZWxlc3MtZmctZmlybS1ncm91bmQtc29jY2VyLWNsZWF0LWFsbW9zdC1ibHVlLXNlbWktbHVjaWQtYmx1ZS1zZW1pLXNvbGFyLXllbGxvd19BMTEwMjQ2NCZyc2lkPTYyMDM5Y2IwLTMzOGUtNGY2My04OTIyLWNjYmRkYTU1Zjc1OSZyaWQ9NjIwMzljYjAtMzM4ZS00ZjYzLTg5MjItY2NiZGRhNTVmNzU5JTNBY2xlYXQlMjF1c2VyX2ludGVyZXN0JTNBMCZnPWNsZWF0JTIxdXNlcl9pbnRlcmVzdCZuPTAmcD1GYWxzZSZiPTRjNGRlZTdiMDI3OTMwNmUxYjI4ZDQ3YmRhYmIzNWFkLTEmYz0wOTI2MjAyNF9UaHVyc2RheV82cG0mcj1BMTEwMjQ2NDAxOSZydD1wcm9kdWN0Jng9Wlhod1gySjAmcmM9UG9wdWxhciZ0PTQ3OTgzMCZtPWVtYWlsJnV0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/s0k15709255">adidas F50 Elite Laceless FG Firm Ground Soccer Cleat Almost Blue/Semi Lucid Blue/Semi Solar Yellow</a>
-          </mj-text>
-        </mj-column>
-
-        <mj-column padding="0px">
-          <mj-image src="/assets/cleats/cleat-7.jpg" alt="" padding="0 8px" href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWluLmNvbS9jbGljay9zZWktc29jY2VyLWNvbS9yUyt1Z25EaWt4ampKS0g3QmFTb1pwNDVXNG1rc01vQnBxQktETEVDSk0xOENuSXJyVTBwYms2SmlEZmM3N0IyUkRIZElQU2w3YmJUTy9vckZ1aTVSdz09/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3JkPWh0dHBzJTNBJTJGJTJGd3d3LnNvY2Nlci5jb20lMkZzaG9wJTJGZGV0YWlscyUyRm5pa2Utem9vbS1tZXJjdXJpYWwtdmFwb3ItMTUtZWxpdGUtZmctc29jY2VyLWNsZWF0LWxlbW9uYWRlLWJsYWNrX0ExMDk0Mzk1JnJzaWQ9NjIwMzljYjAtMzM4ZS00ZjYzLTg5MjItY2NiZGRhNTVmNzU5JnJpZD02MjAzOWNiMC0zMzhlLTRmNjMtODkyMi1jY2JkZGE1NWY3NTklM0FjbGVhdCUyMXVzZXJfaW50ZXJlc3QlM0ExJmc9Y2xlYXQlMjF1c2VyX2ludGVyZXN0Jm49MSZwPUZhbHNlJmI9NGM0ZGVlN2IwMjc5MzA2ZTFiMjhkNDdiZGFiYjM1YWQtMSZjPTA5MjYyMDI0X1RodXJzZGF5XzZwbSZyPUExMDk0Mzk1MDAyJnJ0PXByb2R1Y3QmeD1aWGh3WDJKMCZyYz1Qb3B1bGFyJnQ9NDc5ODMwJm09ZW1haWwmdXRtX2NvbnRlbnQ9MDkyNjIwMjRfVGh1cnNkYXlfNnBtJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT16ZXRhJmJ0X2VlPU1kM0ZwYmpRb09nbWY1TmN6JTJCcFBBa3FmcHM4MmxIRnFST0Y0RlJrYkYwN1o1SHd0VlI5UnJyZHFGZFhGRHBGNyZidF90cz0xNzI3Mzg4NjY2ODI1/gZvXcIw/s2kdb2aab67" />
-          <mj-text align="center" padding="0 5px">
-            <a class="recommendation-title" href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly9yZWRpcmVjdC5hcGkuYm9vbXRyYWluLmNvbS9jbGljay9zZWktc29jY2VyLWNvbS9yUyt1Z25EaWt4ampKS0g3QmFTb1pwNDVXNG1rc01vQnBxQktETEVDSk0xOENuSXJyVTBwYms2SmlEZmM3N0IyUkRIZElQU2w3YmJUTy9vckZ1aTVSdz09/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3JkPWh0dHBzJTNBJTJGJTJGd3d3LnNvY2Nlci5jb20lMkZzaG9wJTJGZGV0YWlscyUyRm5pa2Utem9vbS1tZXJjdXJpYWwtdmFwb3ItMTUtZWxpdGUtZmctc29jY2VyLWNsZWF0LWxlbW9uYWRlLWJsYWNrX0ExMDk0Mzk1JnJzaWQ9NjIwMzljYjAtMzM4ZS00ZjYzLTg5MjItY2NiZGRhNTVmNzU5JnJpZD02MjAzOWNiMC0zMzhlLTRmNjMtODkyMi1jY2JkZGE1NWY3NTklM0FjbGVhdCUyMXVzZXJfaW50ZXJlc3QlM0ExJmc9Y2xlYXQlMjF1c2VyX2ludGVyZXN0Jm49MSZwPUZhbHNlJmI9NGM0ZGVlN2IwMjc5MzA2ZTFiMjhkNDdiZGFiYjM1YWQtMSZjPTA5MjYyMDI0X1RodXJzZGF5XzZwbSZyPUExMDk0Mzk1MDAyJnJ0PXByb2R1Y3QmeD1aWGh3WDJKMCZyYz1Qb3B1bGFyJnQ9NDc5ODMwJm09ZW1haWwmdXRtX2NvbnRlbnQ9MDkyNjIwMjRfVGh1cnNkYXlfNnBtJnV0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT16ZXRhJmJ0X2VlPU1kM0ZwYmpRb09nbWY1TmN6JTJCcFBBa3FmcHM4MmxIRnFST0Y0RlJrYkYwN1o1SHd0VlI5UnJyZHFGZFhGRHBGNyZidF90cz0xNzI3Mzg4NjY2ODI1/gZvXcIw/s2kdb2aab67" class="">Nike Zoom Mercurial Vapor 15 Elite FG Soccer Cleat Lemonade/Black</a>
-          </mj-text>
-        </mj-column>
-        <mj-column padding="0px">
-          <mj-image src="/assets/cleats/cleat-8.jpg" alt="" padding="0 8px" href="https://www.soccer.com/shop/details/nike-zoom-mercurial-vapor-16-elite-cosmic-speed-fg-firm-ground-soccer-cleat-black-black_A1103254" />
-          <mj-text align="center" padding="0 5px">
-            <a class="recommendation-title" href="https://www.soccer.com/shop/details/nike-zoom-mercurial-vapor-16-elite-cosmic-speed-fg-firm-ground-soccer-cleat-black-black_A1103254" class="">Nike Zoom Mercurial Superfly 10 Elite FG Firm Ground Soccer Cleat White/Racer Blue</a>
-          </mj-text>
-        </mj-column>
-      </mj-section>
-      <!-- End of Recommendations Section -->
+      <!-- Start of Footwear Sections -->
+      <mj-include path="./components/footwear-section.mjml" />
+      <!-- End of Footwear Sections -->
 
 
       <!-- Start of Divider -->
@@ -199,6 +89,36 @@
       <!-- End of Divider -->
 
 
+      <!-- Jerseys Sections -->
+      <mj-include path="./components/fanwear.mjml" />
+      <!-- End of Jerseys Sections -->
+
+
+      <!-- Start of Divider -->
+      <mj-include path="./components/divider.mjml" />
+      <!-- End of Divider -->
+
+      <!-- End of Jerseys Sections -->
+
+
+      <mj-section padding="5px 0 20px">
+        <mj-column>
+          <mj-text align="center" font-size="20px" font-weight="bold" letter-spacing="1.2px" color="#555555" padding="0">
+            Enter to Win a Signed Man City Jersey
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+        <mj-column>
+          <mj-image src="/assets/raffle.jpg" alt="" />
+        </mj-column>
+      </mj-section>
+
+
+      <!-- Start of Divider -->
+      <mj-include path="./components/divider.mjml" />
+      <!-- End of Divider -->
 
     </mj-wrapper>
   </mj-body>
