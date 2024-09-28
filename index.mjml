@@ -10,7 +10,7 @@
     <mj-style inline="inline">
       .header-link {
         text-decoration: none;
-        color: red;
+        color: #e0164a;
         font-weight: bold;
         font-size: 14px;
         margin: 0;
