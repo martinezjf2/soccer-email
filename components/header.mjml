@@ -1,0 +1,30 @@
+      <!-- Nav Header -->
+      <mj-section padding="10px 0px 0px 0px" full-width="full-width">
+        <mj-column padding="5px 15px" width="180px">
+          <mj-image src="/assets/logo.png" alt="" padding="10px 0" align="left" href="https://soccer.com" />
+        </mj-column>
+
+        <!-- Container for links with a specified width to keep them in a single row -->
+        <mj-column padding="0" width="420px">
+          <mj-table align="center" width="100%">
+            <tr>
+              <td align="center" style="padding: 0 10px;">
+                <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL2Zvb3R3ZWFyLw/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3V0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/s8qf13d552a" class="header-link">Footwear</a>
+              </td>
+              <td align="center" style="padding: 0 10px;">
+                <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL2FwcGFyZWw/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3V0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/s2p03927d1f" class="header-link">Apparel</a>
+              </td>
+              <td align="center" style="padding: 0 10px;">
+                <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL2Zhbg/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3V0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/s2p6be36ff1" class="header-link">Fan</a>
+              </td>
+              <td align="center" style="padding: 0 10px;">
+                <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL2VxdWlwbWVudA/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3V0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/sev1cc2c421" class="header-link">Equipment</a>
+              </td>
+              <td align="center" style="padding: 0 10px;">
+                <a href="https://e.email.soccer.com/click?EbWFydGluZXpqZjJAZ21haWwuY29t/CeyJtaWQiOiIxNzI3Mzg5MTU2MDAwNTM1ZTIxZjFmNGJkIiwiY3QiOiJzZWktc29jY2VyLWNvbS1kNzRhODdkNDcyZDE2NzE4N2VjZTQwYjBkNmJkZjJmYS0xIiwicmQiOiJnbWFpbC5jb20ifQ/VaHR0cHM6Ly93d3cuc29jY2VyLmNvbS9zaG9wL3NhbGU/SWkhfZW1haWxzb2NfTk5UQU4wOTI2MjAyNGMxNDEyMjU5YjE/LZXMx/qP3V0bV9jb250ZW50PTA5MjYyMDI0X1RodXJzZGF5XzZwbSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9emV0YSZidF9lZT1NZDNGcGJqUW9PZ21mNU5jeiUyQnBQQWtxZnBzODJsSEZxUk9GNEZSa2JGMDdaNUh3dFZSOVJycmRxRmRYRkRwRjcmYnRfdHM9MTcyNzM4ODY2NjgyNQ/gZvXcIw/sbp45d5ec07" class="header-link">Sale</a>
+              </td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+      <!-- End of Nav Header -->

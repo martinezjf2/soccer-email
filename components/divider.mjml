@@ -1,0 +1,7 @@
+ <!-- Start of Divider -->
+ <mj-section>
+   <mj-column>
+     <mj-divider border-width="2px" border-style="solid" border-color="lightgrey" padding="0 40px" />
+   </mj-column>
+ </mj-section>
+ <!-- End of Divider -->
