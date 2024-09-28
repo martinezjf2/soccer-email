@@ -3,7 +3,6 @@
     <mj-style>
       * {
         box-sizing: border-box;
-
       }
     </mj-style>
 
@@ -13,62 +12,51 @@
         text-decoration: none;
         color: red;
         font-weight: bold;
-        font-size: 11px;
+        font-size: 14px;
         margin: 0;
-
+        white-space: nowrap;
       }
     </mj-style>
   </mj-head>
   <mj-body background-color="#f2f2f2">
 
-    <!-- Nav Header -->
     <mj-wrapper background-color="white">
 
+      <!-- Nav Header -->
+      <mj-section padding="0" full-width="full-width">
+        <mj-column padding="5px 15px" width="180px">
+          <mj-image src="/assets/logo.png" alt="" padding="10px 0" align="left" />
+        </mj-column>
 
-      <mj-section padding="0">
-
-        <mj-column>
-          <mj-image src="/assets/logo.png" alt="" width="160px" padding="10px 0" align="center" />
+        <!-- Container for links with a specified width to keep them in a single row -->
+        <mj-column padding="0" width="420px">
+          <mj-table align="center" width="100%">
+            <tr>
+              <td align="center" style="padding: 0 10px;">
+                <a href="#" class="header-link">Footwear</a>
+              </td>
+              <td align="center" style="padding: 0 10px;">
+                <a href="#" class="header-link">Apparel</a>
+              </td>
+              <td align="center" style="padding: 0 10px;">
+                <a href="#" class="header-link">Fan</a>
+              </td>
+              <td align="center" style="padding: 0 10px;">
+                <a href="#" class="header-link">Equipment</a>
+              </td>
+              <td align="center" style="padding: 0 10px;">
+                <a href="#" class="header-link">Sale</a>
+              </td>
+            </tr>
+          </mj-table>
         </mj-column>
       </mj-section>
-
-      <mj-section>
-        <mj-group>
-
-          <mj-column padding="10px 3px">
-            <mj-text padding="0" align="center">
-              <a href="#" class="header-link">Footware</a>
-            </mj-text>
-          </mj-column>
-
-          <mj-column padding="10px 3px">
-            <mj-text padding="0" align="center">
-              <a href="#" class="header-link">Apparel</a>
-            </mj-text>
-          </mj-column>
-          <mj-column padding="10px 3px">
-            <mj-text padding="0" align="center">
-              <a href="#" class="header-link">Fan</a>
-            </mj-text>
-          </mj-column>
-          <mj-column padding="10px 3px">
-            <mj-text padding="0" align="center">
-              <a href="#" class="header-link">Equipment</a>
-            </mj-text>
-          </mj-column>
-          <mj-column padding="10px 3px">
-            <mj-text padding="0" align="center">
-              <a href="#" class="header-link">Sale</a>
-            </mj-text>
-          </mj-column>
-      </mj-section>
-
-      </mj-group>
-
+      <!-- End of Nav Header -->
     </mj-wrapper>
-
   </mj-body>
 </mjml>
+
+
 
 
 
