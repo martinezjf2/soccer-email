@@ -141,20 +141,24 @@
 
 
       <mj-section padding="0 40px">
-        <mj-column>
-          <mj-image src="/assets/shipping.jpg" alt="" padding="0" />
-        </mj-column>
-        <mj-column>
-          <mj-image src="/assets/giftcards.jpg" alt="" padding="0" />
-        </mj-column>
+        <mj-group>
+          <mj-column>
+            <mj-image src="/assets/shipping.jpg" alt="" padding="0" />
+          </mj-column>
+          <mj-column>
+            <mj-image src="/assets/giftcards.jpg" alt="" padding="0" />
+          </mj-column>
+        </mj-group>
       </mj-section>
       <mj-section padding="0 40px">
-        <mj-column>
-          <mj-image src="/assets/reviews.jpg" alt="" padding="0" />
-        </mj-column>
-        <mj-column>
-          <mj-image src="/assets/about.jpg" alt="" padding="0" />
-        </mj-column>
+        <mj-group>
+          <mj-column>
+            <mj-image src="/assets/reviews.jpg" alt="" padding="0" />
+          </mj-column>
+          <mj-column>
+            <mj-image src="/assets/about.jpg" alt="" padding="0" />
+          </mj-column>
+        </mj-group>
       </mj-section>
 
 
@@ -162,7 +166,7 @@
       <!-- Footer Section -->
       <mj-section padding="15px 0px 5px 0px" full-width="full-width" background-color="black">
         <mj-column padding="5px 15px" width="250px">
-          <mj-image src="/assets/logo.png" alt="" padding="10px 8px" align="left" href="https://soccer.com" />
+          <mj-image src="/assets/logo.png" alt="" padding="10px 8px" align="center" href="https://soccer.com" />
         </mj-column>
 
         <!-- Container for links with a specified width to keep them in a single row -->
@@ -187,6 +191,7 @@
             </tr>
           </mj-table>
         </mj-column>
+
       </mj-section>
 
       <mj-section background-color="#d8d8d8">
