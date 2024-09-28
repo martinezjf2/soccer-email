@@ -1,7 +1,7 @@
       <!-- Nav Header -->
       <mj-section padding="10px 0px 0px 0px" full-width="full-width">
         <mj-column padding="5px 15px" width="180px">
-          <mj-image src="/assets/logo.png" alt="" padding="10px 0" align="left" href="https://soccer.com" />
+          <mj-image src="/assets/logo.png" alt="" padding="10px 0" align="center" href="https://soccer.com" />
         </mj-column>
 
         <!-- Container for links with a specified width to keep them in a single row -->
