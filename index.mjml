@@ -66,7 +66,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/banner.jpg" alt="" />
+          <mj-image src="https://soccer-email.s3.amazonaws.com/banner.jpg" alt="" />
         </mj-column>
       </mj-section>
 
@@ -90,7 +90,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/discount.jpg" alt="" />
+          <mj-image src="https://soccer-email.s3.amazonaws.com/discount.jpg" alt="" />
         </mj-column>
       </mj-section>
 
@@ -122,7 +122,7 @@
 
       <mj-section padding="0">
         <mj-column>
-          <mj-image src="/assets/raffle.jpg" alt="" />
+          <mj-image src="https://soccer-email.s3.amazonaws.com/raffle.jpg" alt="" />
         </mj-column>
       </mj-section>
 
@@ -144,20 +144,20 @@
       <mj-section padding="0 40px">
         <mj-group>
           <mj-column>
-            <mj-image src="/assets/shipping.jpg" alt="" padding="0" />
+            <mj-image src="https://soccer-email.s3.amazonaws.com/shipping.jpg" alt="shipping icon" padding="0" />
           </mj-column>
           <mj-column>
-            <mj-image src="/assets/giftcards.jpg" alt="" padding="0" />
+            <mj-image src="https://soccer-email.s3.amazonaws.com/giftcards.jpg" alt="gift cards icon" padding="0" />
           </mj-column>
         </mj-group>
       </mj-section>
       <mj-section padding="0 40px">
         <mj-group>
           <mj-column>
-            <mj-image src="/assets/reviews.jpg" alt="" padding="0" />
+            <mj-image src="https://soccer-email.s3.amazonaws.com/reviews.jpg" alt="reviews icon" padding="0" />
           </mj-column>
           <mj-column>
-            <mj-image src="/assets/about.jpg" alt="" padding="0" />
+            <mj-image src="https://soccer-email.s3.amazonaws.com/about.jpg" alt="about icon" padding="0" />
           </mj-column>
         </mj-group>
       </mj-section>
@@ -167,7 +167,7 @@
       <!-- Footer Section -->
       <mj-section padding="15px 0px 5px 0px" full-width="full-width" background-color="black">
         <mj-column padding="5px 15px" width="250px">
-          <mj-image src="/assets/logo.png" alt="" padding="10px 8px" align="center" href="https://soccer.com" />
+          <mj-image src="https://soccer-email.s3.amazonaws.com/logo.png" alt="soccer.com logo" padding="10px 8px" align="center" href="https://soccer.com" />
         </mj-column>
 
         <!-- Container for links with a specified width to keep them in a single row -->
@@ -175,19 +175,19 @@
           <mj-table align="center" width="100%">
             <tr>
               <td align="center" style="padding: 0 12px;">
-                <img src="/assets/media/fb.png" alt="" width="30px" />
+                <img src="https://soccer-email.s3.amazonaws.com/fb.png" alt="facebook logo" width="30px" />
               </td>
               <td align="center" style="padding: 0 12px;">
-                <img src="/assets/media/tw.png" alt="" width="30px" />
+                <img src="https://soccer-email.s3.amazonaws.com/tw.png" alt="twitter logo" width="30px" />
               </td>
               <td align="center" style="padding: 0 12px;">
-                <img src="/assets/media/insta.png" alt="" width="30px" />
+                <img src="https://soccer-email.s3.amazonaws.com/insta.png" alt="instagram logo" width="30px" />
               </td>
               <td align="center" style="padding: 0 12px;">
-                <img src="/assets/media/yt.png" alt="" width="30px" />
+                <img src="https://soccer-email.s3.amazonaws.com/yt.png" alt="youtube logo" width="30px" />
               </td>
               <td align="center" style="padding: 0 12px;">
-                <img src="/assets/media/twit.png" alt="" width="30px" />
+                <img src="https://soccer-email.s3.amazonaws.com/twit.png" alt="tik tok logo" width="30px" />
               </td>
             </tr>
           </mj-table>
